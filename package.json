@@ -1,0 +1,12 @@
+{
+  "name": "blox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "highland": "^2.13.0",
+    "node-fs-extra": "^0.8.2",
+    "node-zip": "^1.1.1",
+    "rethinkdb": "^2.3.3"
+  }
+}
